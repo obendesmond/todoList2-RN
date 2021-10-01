@@ -4,7 +4,7 @@ Add todos or goals and can mark them as complete by simply tapping on one
 
 ## Image
 
-![](assets/1.png)
+![](assets/appAssets/1.png)
 
 ## Available Scripts
 
